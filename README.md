@@ -22,8 +22,8 @@ include into *.html:
 
 Example:
 ---
-<link href="https://raw.github.com/Korchy/jquery_tooltip/master/tooltip.css" type=text/css rel=stylesheet>
+<link href="https://rawgit.com/Korchy/jquery_tooltip/master/tooltip.css" type=text/css rel=stylesheet>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script type="text/javascript" src="https://raw.github.com/Korchy/jquery_tooltip/master/tooltip.js"></script>
+<script type="text/javascript" src="https://rawgit.com/Korchy/jquery_tooltip/master/tooltip.js"></script>
 
 <div class="tooltip" tooltipText="Tooltip text">Text with tooltip</div>
